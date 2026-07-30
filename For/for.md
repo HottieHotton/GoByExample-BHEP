@@ -1,0 +1,1 @@
+For Loops are pretty standard. However, this range feature is pretty interesting, kind of simplifies the loop. I am actually not sure if it's used in other languages, but based on a quick google search: this feature simply removes the need for manual indexing.
