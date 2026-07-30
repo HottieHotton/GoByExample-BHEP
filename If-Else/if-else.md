@@ -1,0 +1,1 @@
+Typical if/else behavior. Same in Java(requiring braces), while Python doesn't.
