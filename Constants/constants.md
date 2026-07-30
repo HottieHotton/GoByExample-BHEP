@@ -1,0 +1,1 @@
+I was messing around and notied that I can do var a int, but I can't do const a int, I need to have a value tied to it. So it seems like you can't have null const values(which makes sense).
