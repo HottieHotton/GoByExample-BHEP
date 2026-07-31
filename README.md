@@ -1,0 +1,3 @@
+This is the repository for my journey learning GoLang. This is coming directly from the popular website [Go By Example](https://gobyexample.com/)!
+
+All code is the same as per the examples, this is helping me retype these out directly the ensure I understand the language correctly. Each folder has their own .go file and .md file. Each .md file has their own Notes that I put together and my own findings.
