@@ -1,0 +1,4 @@
+From Go By Example's description directly:
+> A Go string is a read-only slice of bytes. The language and the standard library treat strings specially - as containers of text encoded in UTF-8. In other languages, strings are made of “characters”. In Go, the concept of a character is called a rune - it’s an integer that represents a Unicode code point. [This Go blog post](https://go.dev/blog/strings) is a good introduction to the topic.
+
+It's really cool to notice that Go is very memory conscious. This is nice because it takes into account the many different languages that we have to consider when doing API based requests and other situations that require it.
