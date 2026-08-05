@@ -1,0 +1,1 @@
+The concept of recursion is used widely across multiple programming languages to solve many problems. What's also cool is that you can use recursion with GoLangs anonymous functions feature to help with recursion, especially within the main function. Recursion is used more than just for numbers, it's used in everyday programming.
