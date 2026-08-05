@@ -1,0 +1,1 @@
+Range is a great tool to iterate through data sctructures. Basic Arrays and Slices are great to utilize this feature.
