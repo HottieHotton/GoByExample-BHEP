@@ -1,0 +1,41 @@
+package main
+
+import "fmt"
+
+func zeroval(ival int) {
+	ival = 0
+}
+
+func zeroptr(iptr *int) {
+	*iptr = 0
+}
+
+func main() {
+	i := 1
+	fmt.Println("initial:", i)
+
+	zeroval(i)
+	fmt.Println("zeroval:", i)
+
+	zeroptr(&i)
+	fmt.Println("zeroptr:", i)
+
+	fmt.Println("zeroptr:", &i)
+
+	p := new(42)
+	fmt.Println("value at *p:", *p)
+	zeroptr(p)
+	fmt.Println("value at *p", *p)
+
+
+	test := 25
+	fmt.Println("test:", test)
+	fmt.Println("test address:", &test)
+
+	testptr := &test
+	fmt.Println("testptr:", *testptr)
+	fmt.Println("testptr address:", testptr)
+
+	*testptr = 100
+	fmt.Println("test changed to 100:", test)
+}
