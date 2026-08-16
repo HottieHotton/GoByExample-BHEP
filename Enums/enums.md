@@ -1,0 +1,1 @@
+Enums are super helpful to be able to utilize certain values tied to a field. Based on that value, you can perform certain actions. Per this example, since int 0 is Idle, then we return the connected state. Now that we're in the connected state, we return the idle state.
