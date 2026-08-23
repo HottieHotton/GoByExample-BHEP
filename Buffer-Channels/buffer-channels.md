@@ -1,0 +1,1 @@
+Buffering is good if you want to re-utilize channels a set amount of times, if you use it over the set limit, you get an error. I did some testing and currently it doesn't look like you can't set the limit multiple times, it has to be hardcoded within the make function.
