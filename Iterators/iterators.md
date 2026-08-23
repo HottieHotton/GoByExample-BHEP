@@ -1,0 +1,1 @@
+Iterators are helpful when you need to go over any specific type to accomplish a specific task. In the code, we broke apart the Int list and displayed it combined. We also did this with a string and broke it apart by the -'s, we also did this with fib sequences.
