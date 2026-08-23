@@ -1,0 +1,1 @@
+This is a great way to integrate Goroutines as seen in the last exercise. I did some testing and it looks like you can do math and anon functions in channels.
