@@ -1,0 +1,1 @@
+I did some testing with this, I found it interesting that without the Time Commands, the goroutine strings were not printed. As per the instructions, this is likely beause goroutine commands are synchronous.
