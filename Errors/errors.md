@@ -1,0 +1,1 @@
+Mapping errors are the most important process to developing applications. It's better to always display user friendly errors than compared to displaying generic errors that would mean nothing to customers.
