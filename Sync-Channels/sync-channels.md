@@ -1,0 +1,1 @@
+If you need to run multiple routines at once that calls different details, you can sync the channels. It mentions something about WaitGroups, which MAYBE is like an async function to wait for the routines to finish? But I do see it's coming up soon so I'll learn that.
