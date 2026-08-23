@@ -1,0 +1,1 @@
+Utilizing Custom Errors can be utilized for building API's. It's good to have Error Formating that creates custom errors instead of just regular Error Messages.
