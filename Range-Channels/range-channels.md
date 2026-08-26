@@ -1,0 +1,1 @@
+It's helpful to know that you can range over channels when it's received more than 1 result. This can be helpful when collecting data into a channel and ranging over it for specific details needed for your application.
