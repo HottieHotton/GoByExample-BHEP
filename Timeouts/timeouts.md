@@ -1,0 +1,1 @@
+Timeouts are pivotal when it comes to requesting data from API's, it helps to pevent crashes from your own system if a specific API fails to respond in a timely matter. Go makes it easy to outline how you need to detail the timeout so it's easy to point out in your Select functions.
