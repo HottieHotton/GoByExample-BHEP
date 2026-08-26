@@ -1,0 +1,1 @@
+Having Non-Blocking Opterations like `default` is helpful to ensure your application can still continue even if a Channel doesn't complete a specific requirement. Select's default is near 1-1 to the switch default you see in other programming languages!
