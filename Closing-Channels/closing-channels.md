@@ -1,0 +1,1 @@
+Closing Channels can be compared to breaking for loops, when you fee like you've met a specific standard if you're repeating channels, then you can call the close function and it'll shut down the channel and continue on with the program like normal.
