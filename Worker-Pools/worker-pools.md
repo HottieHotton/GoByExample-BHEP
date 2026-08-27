@@ -1,0 +1,1 @@
+Doing Worker Pools is a very interesting functionality that solves different functions is a fast paced way instead of running it one at a time, we send all of the workers in, and once the job is complete the worker picks the next job and works on that. With more workers, it gets the application done faster(and CPU usage stays low)
