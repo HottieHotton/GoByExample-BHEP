@@ -1,0 +1,1 @@
+This example is used to show how WaitGroups are used for only one function, for multiple routines, we should be using `WaitGroup.Go`. .Wait() is utilized to block until everything has been completed.
