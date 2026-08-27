@@ -1,0 +1,1 @@
+Tickers are helpful especially when you need to ping specific calls within an X amount of time in your code. I tested this code with 100ms hits instead of 500ms and I was able to see it print 16 times, which was the exact number of sleep that we called(as seen on line 23)
