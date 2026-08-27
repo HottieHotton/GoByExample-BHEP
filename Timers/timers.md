@@ -1,0 +1,1 @@
+Timers are used to ensure that some specific code is fiered in the future instead of right in the moment. This can be helpful when calling different applications or API's to avoid rate limiting.
