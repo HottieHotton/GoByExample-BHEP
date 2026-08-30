@@ -1,0 +1,1 @@
+Rate Limiting is one of the core functionalities for a stable API Integration. It's to ensure no one overutilitzes the API and breaks the integration. It's also good to build this rate limiter to "Load Test" certain API's so you know how to effeciently use it without running into limits.
