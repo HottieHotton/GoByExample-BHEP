@@ -1,0 +1,1 @@
+Sorting is one of the most helpful features when you need to organize data that's been collected. I did some testing with strings and noticed that it checks the first character of each string and organizes it, and if there's the same, it checks the second. It will do this until everything is organized alphabetically.
