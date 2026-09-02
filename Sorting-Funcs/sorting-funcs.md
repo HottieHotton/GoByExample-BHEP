@@ -1,0 +1,1 @@
+Outside of normal sorting, we can sort using compare based functions to accomplish different based requirements you need for certain applications. This can even apply to structs, which we used to sort by age.
