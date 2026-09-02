@@ -1,0 +1,1 @@
+Panic's are used when you see unexpected errors in your code. In my current set up, I have the extension called "Error Lens", which allows me to see that the way this example was put together, the panic on line 9 prevents the rest of the file to run. If you do Panics incorrectly, it'll stop the rest of your file. So always utilize it as outlined in the rest of the file.
