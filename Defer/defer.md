@@ -1,0 +1,1 @@
+Defer's are the `finally` of GoLang. You can utilize it to ensure certain details are done at the end of the file instead of where they currently are mapped in the code.
