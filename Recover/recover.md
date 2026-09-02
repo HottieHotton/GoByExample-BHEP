@@ -1,0 +1,1 @@
+Recovery is used to collect errors in a clean fashion and is able to send it back to the user. It's helpful when you also defer it so if an error does happen, defer kicks in and assists recover in collecting and sharing results based on how you format your response.
