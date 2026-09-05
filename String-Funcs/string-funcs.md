@@ -1,0 +1,1 @@
+String Functions give you many different abilities where you can manipulate strings. These are the most common functions across all programming languages that gives us those abilities.
