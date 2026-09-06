@@ -1,0 +1,1 @@
+Regex is one of the most standard ways to confirm if certain requirements meet a inputted string. This is helpful in standard forms or any type of API responses to ensure the data you're receiving is correct.
