@@ -1,0 +1,1 @@
+JSON is used in many different instances, mainly in the realm of API request/responses. Being able to convert, update, change, print, map, and much more with JSON is helpful in terms of creating applications in order to stay efficient!
