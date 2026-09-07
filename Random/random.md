@@ -1,0 +1,1 @@
+Random Functions were one of my highlights when I first learned Java, my first Programming Language. It's helpful when you need to randomize data for any specific reason.
