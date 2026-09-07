@@ -1,0 +1,1 @@
+Formatting time is necessary because display raw time can be confusing for end-users. Utilizing the Format option will accomplish this.
