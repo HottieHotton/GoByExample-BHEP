@@ -1,0 +1,2 @@
+Quick Description from Gemini:
+> Unix timestamps are helpful in Go because they provide a lightweight, timezone-agnostic, and cross-system compatible way to store and transmit time. While Go's native time.Time struct is the idiomatic way to handle dates and timezones, converting those objects to integer-based Unix timestamps (int64) offers major performance and interoperability benefits.
