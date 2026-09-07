@@ -1,0 +1,1 @@
+Time is a standard functionality between all programming languages to ensure you can display or share time across multiple different applications or API's.
