@@ -1,0 +1,1 @@
+XML is what was before JSON is a lot of API based requests. XML came from Web Services based API's. This follows a similar pattern of JSON regarding Marshalling and Unmarshalling. You can tell your code to nest via `ex>am>ple`.
