@@ -1,0 +1,1 @@
+Parsing URL's like Database URL's helps us ensure we're passing all the correct info. I did a test as well to see how it behaves with a website like google.com, and it looks like currently `Scheme` and `Host` return values.
