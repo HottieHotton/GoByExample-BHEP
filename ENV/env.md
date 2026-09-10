@@ -1,0 +1,1 @@
+ENV's are pivotal when it comes to running production based applications. It helps store private data without needing to set it publically within your files.
