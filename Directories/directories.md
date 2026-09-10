@@ -1,0 +1,2 @@
+This is helpful when needing to create like templates for codebases when you have the same standard setup across different repositories. This is also like how I'm creating each of these Go By Example Files:
+`mkdir GoByExample && cd GoByExample && touch GoByExample.go && touch GoByExample.md && cd ..`
