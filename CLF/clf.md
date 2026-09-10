@@ -1,0 +1,1 @@
+This is the Go Version of doing commands like -m in `git commit` or `-v` in version for languages. This outlines how to accomplish it and know what the limits are.
