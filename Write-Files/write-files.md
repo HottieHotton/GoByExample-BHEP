@@ -1,0 +1,1 @@
+You can utilize many different ways to write to a file. You can do it via Bytes, via WriteString, utilize bufio, and still print out a real response. As long as you ensure you run a Sync(for filePath) and/or Flush(for bufio) to ensure your submitted details are being saved properly.
