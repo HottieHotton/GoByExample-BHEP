@@ -1,0 +1,3 @@
+module GoByExample-BHEP.com/m
+
+go 1.27.0

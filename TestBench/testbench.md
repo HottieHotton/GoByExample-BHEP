@@ -1,0 +1,1 @@
+Testing is pivotal in software development, and this is how you accomplish this. Always ensure your test files are `filename_test.go`, it needs to have the `_test` otherwise it will not work!
