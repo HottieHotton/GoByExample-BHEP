@@ -1,0 +1,1 @@
+You can utilize this in certain situations to ensure specific filepaths were created successfully and be able to break apart filename and their extensions. Always remember \ for windows and / for mac/linux
