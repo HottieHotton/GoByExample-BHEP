@@ -1,0 +1,1 @@
+In some cases, you need to have an adhoc script that takes in arguments, this is how you ensure they're received and mapped properly.
