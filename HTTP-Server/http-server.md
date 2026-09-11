@@ -1,0 +1,1 @@
+HTTP Servers are pretty easy to use with the `net/http` package. You can utilize ListenAndServe to set the port, HandleFunc to set the endpoints(and tie them to the functions).
