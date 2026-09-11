@@ -1,0 +1,1 @@
+Go has excellent support for HTTP clients and servers with the `net/http` package. It's great to grab details(in a sense like a web scraper if you want to do it like that) and other information you want!
