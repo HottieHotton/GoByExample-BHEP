@@ -1,0 +1,1 @@
+Logging is standard in modern day applications to ensure you can help track issues and ensure your application is running properly. For Free Form, use log, for structure, utilize slog (wild name imo)
